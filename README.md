@@ -12,6 +12,7 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Lucas-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+    <img align="right" alt="JooJ-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/809269778597937172/829620185651609620/download20210404043408.png">
 </div>
   
   ##
