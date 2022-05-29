@@ -5,14 +5,6 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LucasDiasJorge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiasJorge&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  
-  <div align="center"><br>
-  <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Lucas-MYSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="right" alt="JooJ-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/809269778597937172/829620185651609620/download20210404043408.png">
-</div>
           
   ##
   
