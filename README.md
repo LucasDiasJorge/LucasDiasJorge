@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdiasjorge&show_icons=true&locale=en&layout=compact" alt="lucasdiasjorge" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdiasjorge&show_icons=true&locale=en" alt="lucasdiasjorge" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdiasjorge&" alt="lucasdiasjorge" /></p>
