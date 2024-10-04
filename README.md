@@ -1,9 +1,6 @@
 <h2 align="center">Hello, I'm Lucas!</h2>
-<h3 align="center">Computer Scientist | Back End Developer | IoT Enthusiast</h3>
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 40%" alt="Greeting Animation" />
-</div>
-<p align="center">Welcome to my GitHub profile! Here, you'll discover my projects and contributions. I have a passion for technology and development, with a focus on Back End development and the Internet of Things (IoT).</p>
+<h3 align="center">Computer Scientist 🖥️ | BackEnd Developer 🍃 </h3>
+<p align="center">Welcome to my GitHub profile! Here, you'll discover my projects and contributions. I have a passion for technology and development, with a focus on Back End development using Spring and the Internet of Things (IoT).</p>
 
 <h3 align="center">🛠️ Tools and Languages</h3>
 <div align="center">
@@ -11,8 +8,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" width="70" alt="Raspberry Pi logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="70" alt="Linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="70" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" width="70" alt="Rust logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="70" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="70" alt="Bash logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="70" alt="Spring logo" />
 </div>
 
 <h3 align="center">📊 GitHub Statistics</h3>
