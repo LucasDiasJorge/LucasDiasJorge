@@ -1,5 +1,5 @@
 <h2 align="center">Hello, I'm Lucas!</h2>
-<h3 align="center">Computer Scientist 🖥️ | Back End Developer 🍃 </h3>
+<h3 align="center">Computer Scientist 🖥️ | Back End Developer 🍃 | IoT Developer 🏠 </h3>
 <p align="center">Welcome to my GitHub profile! Here, you'll discover my projects and contributions. I have a passion for technology and development, with a focus on Back End development using Spring and the Internet of Things (IoT).</p>
 
 <h3 align="center">🛠️ Tools and Languages</h3>
