@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Lucas !</h2>
-<h3 align="center">Computer Scientist 🖥️ | Back End Developer 🍃 | IoT Developer 🏠 </h3>
-<p align="center">Welcome to my GitHub profile! Here, you'll discover my projects and contributions. I have a passion for technology and development, with a focus on Back End development using Spring and the Internet of Things (IoT).</p>
+<h3 align="center">Curious Computer Scientist 🖥️ </h3>
+<p align="center">Welcome to my GitHub profile! Here, you'll discover my projects and contributions. I have a passion for technology and development, with a focus on Back End development using Java Spring framework and the Internet of Things (IoT) for general purposes.</p>
 
 <h3 align="center">🛠️ Tools and Languages</h3>
 <div align="center">
@@ -10,13 +10,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="70" alt="C logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" width="70" alt="Rust logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="70" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="70" alt="Spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" width="70" alt="CSharp logo" />
 </div>
 
 <h3 align="center">📊 GitHub Statistics</h3>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasDiasJorge&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiasJorge&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <h3 align="center">📫 Contact Me</h3>
