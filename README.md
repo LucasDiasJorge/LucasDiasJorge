@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Lucas !</h2>
 <h3 align="center">Curious Computer Scientist 🖥️ </h3>
-<p align="center">Welcome to my GitHub profile! Here, you'll discover my projects and contributions. I have a passion for technology and development, with a focus on Back End development using Java Spring framework and the Internet of Things (IoT) for general purposes.</p>
+<p align="center">Welcome to my GitHub profile! Here, you'll discover my projects and contributions. I have a passion for technology and development, with a focus on Backend development using Java with Spring, C# using ASP.net and Internet of Things (IoT) concepets for general purposes.</p>
 
 <h3 align="center">🛠️ Tools and Languages</h3>
 <div align="center">
