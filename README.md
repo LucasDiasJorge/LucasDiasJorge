@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Lucas !</h2>
+<h2 align="center">Hello, I'm Lucas Jorge !</h2>
 <h3 align="center">Curious Computer Scientist 🖥️ </h3>
 <p align="center">Welcome to my GitHub profile! Here, you'll discover my projects and contributions. I have a passion for technology and development, with a focus on Backend development using Java with Spring, C# using ASP.net and Internet of Things (IoT) concepets for general purposes.</p>
 
