@@ -1,6 +1,6 @@
-<h2 align="center">Hi, I'm Lucas Jorge 👋</h2>
+<h2>Hi, I'm Lucas Jorge 👋</h2>
 
-<p align="center">
+<p>
   I'm a curious mind who believes in continuous learning, the power of software to create impact, and the beauty of simple, maintainable code.<br />
   From APIs and microservices to smart devices, I strive to bridge software and hardware in meaningful ways.
 </p>
@@ -9,7 +9,7 @@
 
 ### 🛠️ Main Skills & Technologies
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring" />
