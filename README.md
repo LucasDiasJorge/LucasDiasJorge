@@ -40,5 +40,5 @@ Beyond the code, I believe in collaboration, knowledge sharing, and surrounding 
 ### 📫 Let's Connect!
 
   Open to collaborations, networking, and sharing ideas about technology and innovation.<br/>
-  <a href="mailto:lucas_jorg@hotmail.com">lucas_jorg@hotmail.com</a><br/>
+  <a href="mailto:lucas_jorg@hotmail.com">Email - lucas_jorg@hotmail.com</a><br/>
   <a href="https://www.linkedin.com/in/lucasdiasjorge">LinkedIn - Lucas Dias Jorge</a>
