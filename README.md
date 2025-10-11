@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou o Lucas 👋</h1>
+<h1 align="center">👋 Hey there, I'm Lucas Jorge</h1>
 
 <p align="center">
-  Desenvolvedor backend apaixonado por aprender continuamente, criar impacto com software e escrever código simples e sustentável.
-  Gosto de construir APIs e microserviços e de aproximar software e hardware — de dispositivos inteligentes a integrações embarcadas.
+  <strong>Back-End Developer</strong> passionate about building reliable, scalable, and secure server-side applications with <strong>C#</strong> and <strong>.NET</strong>.
+  I enjoy turning complex problems into simple, maintainable solutions — from API design to deployment in production.
 </p>
 
 <p align="center">
@@ -16,48 +16,57 @@
 
 ---
 
-### 🧰 Stack e Tecnologias
+### 🧠 About Me
+
+I hold the **Microsoft Back-End Developer Professional Certificate**.  
+My daily work centers on **clean architecture**, **robust data access**, and **secure API design** using modern .NET technologies.
+
+I focus on:
+- **API Development:** RESTful API design, routing, versioning, middleware, workers, gRPC  
+- **Data Persistence:** Entity Framework Core, LINQ, migrations, dapper
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
+- **Authentication & Authorization:** JWT, ASP.NET Core Identity, OAuth2 / OpenID Connect  
+- **Testing & Quality:** xUnit, mocking frameworks, TDD
+- **Architecture & Scalability:** Microservices principles, caching, resilience, performance tuning  
+- **DevOps & Delivery:** Docker, GitHub Actions, Azure App Services  
+- **Observability & Security:** Structured logging, monitoring, secret management  
+- **Base concepts:** Design Patterns, Algorithms for critical thinking
+ 
+> I believe in simple, sustainable code — software that grows with the team, not against it.
+
+---
+
+### 🧰 Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="42" alt=".NET" title=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java" title="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="42" alt="Rust" title="Rust" />
 </p>
 
 ---
 
-### 🌱 Sobre mim
-
-Bacharel em Ciência da Computação, movido por curiosidade e vontade de evoluir todos os dias. Gosto de entender como as coisas funcionam por baixo dos panos, compartilhar conhecimento e trabalhar em equipe. Acredito em código limpo, simples e fácil de manter — e em soluções que realmente geram valor.
-
----
-
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=LucasDiasJorge&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=github_dark" />
   <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiasJorge&layout=compact&langs_count=8&hide_title=true&theme=github_dark" />
-</p>
-
-<p align="center">
   <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=LucasDiasJorge&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
-### ✉️ Contato
+### ✉️ Contact
 
-- Email: <a href="mailto:lucas_jorg@hotmail.com">lucas_jorg@hotmail.com</a><br/>
-- LinkedIn: <a href="https://www.linkedin.com/in/lucasdiasjorge">Lucas Dias Jorge</a>
+- 📧 Email: [lucas_jorg@hotmail.com](mailto:lucas_jorg@hotmail.com)  
+- 💼 LinkedIn: [Lucas Dias Jorge](https://www.linkedin.com/in/lucasdiasjorge)
 
-<!--
-Ideias extras (opcional):
-- Adicionar seção "Artigos/Notes" caso escreva posts.
-- Inserir GIF/Imagem de capa ou ícones adicionais.
-- Linkar gists/snippets úteis ou templates.
--->
+---
+
+<sub>“Great back-end design is invisible — it just works.”</sub>
