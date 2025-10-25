@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Lucas Jorge</h1>
+<h1 align="center">👋 Hey there, I'm Lucas</h1>
 
 <p align="center">
   <strong>Back-End Developer</strong> passionate about building reliable, scalable, and secure server-side applications with <strong>C#</strong> and <strong>.NET</strong>.
