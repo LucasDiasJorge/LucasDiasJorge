@@ -28,7 +28,6 @@ I focus on:
 - **Authentication & Authorization:** JWT, ASP.NET Core Identity, OAuth2 / OpenID Connect  
 - **Testing & Quality:** xUnit, mocking frameworks, TDD
 - **Architecture & Scalability:** Microservices principles, caching, resilience, performance tuning  
-- **DevOps & Delivery:** Docker, GitHub Actions, Azure App Services  
 - **Observability & Security:** Structured logging, monitoring, secret management  
 - **Base concepts:** Design Patterns, Algorithms for critical thinking
  
