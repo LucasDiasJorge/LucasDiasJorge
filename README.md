@@ -31,23 +31,6 @@ I focus on:
 - **Observability & Security:** Structured logging, monitoring, secret management  
 - **Base concepts:** Design Patterns, Algorithms for critical thinking
  
-> I believe in simple, sustainable code — software that grows with the team, not against it.
-
----
-
-### 🧰 Tech Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="42" alt="Rust" title="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java" title="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git" />
-</p>
-
 ---
 
 ### 📊 GitHub Analytics
@@ -65,5 +48,3 @@ I focus on:
 - 💼 LinkedIn: [Lucas Dias Jorge](https://www.linkedin.com/in/lucasdiasjorge)
 
 ---
-
-<sub>“Great back-end design is invisible — it just works.”</sub>
