@@ -29,7 +29,7 @@ I focus on:
 - **Testing & Quality:** xUnit, mocking frameworks, TDD
 - **Architecture & Scalability:** Microservices principles, caching, resilience, performance tuning  
 - **Observability & Security:** Structured logging, monitoring, secret management  
-- **Base concepts:** Design Patterns, Algorithms for critical thinking
+- **Base concepts:** Design Patterns, SOLID, DDD, Algorithms for critical thinking
  
 ---
 
