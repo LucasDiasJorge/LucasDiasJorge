@@ -5,15 +5,6 @@
   I enjoy turning complex problems into simple, maintainable solutions — from API design to deployment in production.
 </p>
 
-<p align="center">
-  <a href="mailto:lucas_jorg@hotmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-lucas__jorg%40hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/lucasdiasjorge">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Dias%20Jorge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
