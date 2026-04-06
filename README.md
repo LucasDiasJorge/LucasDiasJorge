@@ -37,5 +37,3 @@ I focus on:
 
 - 📧 Email: [lucas_jorg@hotmail.com](mailto:lucas_jorg@hotmail.com)  
 - 💼 LinkedIn: [Lucas Dias Jorge](https://www.linkedin.com/in/lucasdiasjorge)
-
----
