@@ -16,7 +16,7 @@ I focus on:
 - **API Development:** RESTful API design, routing, versioning, middleware, workers, gRPC  
 - **Data Persistence:** Entity Framework Core, LINQ, migrations, dapper
 - **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
-- **Authentication & Authorization:** JWT, ASP.NET Core Identity, OAuth2 / OpenID Connect  
+- **Authentication & Authorization:** JWT, ASP.NET Core Identity, OAuth2
 - **Testing & Quality:** xUnit, mocking frameworks, TDD
 - **Architecture & Scalability:** Microservices principles, caching, resilience, performance tuning  
 - **Observability & Security:** Structured logging, monitoring, secret management  
