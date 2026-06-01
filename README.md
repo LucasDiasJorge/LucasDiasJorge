@@ -12,7 +12,7 @@
 I hold the **Microsoft Back-End Developer Professional Certificate**.  
 My daily work centers on **clean architecture**, **robust data access**, and **secure API design** using modern .NET technologies.
 
-I focus on:
+### I focus on:
 - **API Development:** RESTful API design, routing, versioning, middleware, workers, gRPC  
 - **Data Persistence:** Entity Framework Core, LINQ, migrations, dapper
 - **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
