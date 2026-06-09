@@ -1,39 +1,51 @@
-<h1 align="center">Hey, I'm Lucas</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Back-End Developer</strong> passionate about building reliable, scalable, and secure server-side applications with <strong>C#</strong> and <strong>.NET</strong>.
-  I enjoy turning complex problems into simple, maintainable solutions — from API design to deployment in production.
-</p>
+# Lucas Dias Jorge
 
----
+**Back-End Developer · C# · .NET**
 
-### 🧠 About Me
+Building reliable, scalable, and secure server-side applications.<br/>
+From API design to production deployment — clean architecture, robust data access, and battle-tested solutions.
 
-I hold the **Microsoft Back-End Developer Professional Certificate**.  
-My daily work centers on **clean architecture**, **robust data access**, and **secure API design** using modern .NET technologies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdiasjorge)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucas_jorg@hotmail.com)
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft_Back--End_Developer-0078D4?style=flat&logo=microsoft&logoColor=white)](#)
 
-### I focus on:
-- **API Development:** RESTful API design, routing, versioning, middleware, workers, gRPC  
-- **Data Persistence:** Entity Framework Core, LINQ, migrations, dapper
-- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
-- **Authentication & Authorization:** JWT, ASP.NET Core Identity, OAuth2
-- **Testing & Quality:** xUnit, mocking frameworks, TDD
-- **Architecture & Scalability:** Microservices principles, caching, resilience, performance tuning  
-- **Observability & Security:** Structured logging, monitoring, secret management  
-- **Base concepts:** Design Patterns, SOLID, DDD, Algorithms for critical thinking, Refactoring
- 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiasJorge&layout=compact&langs_count=8&hide_title=true&theme=github_dark" />
-  <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=LucasDiasJorge&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+</div>
 
 ---
 
-### ✉️ Contact
+## 🔧 What I Work With
 
-- 📧 Email: [lucas_jorg@hotmail.com](mailto:lucas_jorg@hotmail.com)  
-- 💼 LinkedIn: [Lucas Dias Jorge](https://www.linkedin.com/in/lucasdiasjorge)
+**.NET Ecosystem**
+`C#` `ASP.NET Core` `Entity Framework Core` `LINQ` `Dapper` `gRPC` `Workers`
+
+**Databases**
+`SQL Server` `PostgreSQL` `MySQL` `MongoDB`
+
+**Auth & Security**
+`JWT` `ASP.NET Core Identity` `OAuth2`
+
+**Testing & Quality**
+`xUnit` `TDD` `Mocking Frameworks`
+
+**Architecture & Design**
+`Clean Architecture` `Microservices` `SOLID` `DDD` `Design Patterns` `Refactoring`
+
+**Observability & DevOps**
+`Structured Logging` `Monitoring` `Caching` `Secret Management`
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiasJorge&layout=compact&langs_count=8&hide_title=true&theme=github_dark" />
+  <img alt="GitHub Streak" height="160" src="https://github-readme-streak-stats.herokuapp.com?user=LucasDiasJorge&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+---
+
+<div align="center">
+  <sub>📧 <a href="mailto:lucas_jorg@hotmail.com">lucas_jorg@hotmail.com</a> · 💼 <a href="https://www.linkedin.com/in/lucasdiasjorge">LinkedIn</a></sub>
+</div>
