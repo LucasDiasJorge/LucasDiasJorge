@@ -45,7 +45,3 @@ From API design to production deployment — clean architecture, robust data acc
 </div>
 
 ---
-
-<div align="center">
-  <sub>📧 <a href="mailto:lucas_jorg@hotmail.com">lucas_jorg@hotmail.com</a> · 💼 <a href="https://www.linkedin.com/in/lucasdiasjorge">LinkedIn</a></sub>
-</div>
