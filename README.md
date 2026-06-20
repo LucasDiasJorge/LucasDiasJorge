@@ -9,7 +9,6 @@ From API design to production deployment — clean architecture, robust data acc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdiasjorge)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucas_jorg@hotmail.com)
-[![Microsoft Certified](https://img.shields.io/badge/Microsoft_Back--End_Developer-0078D4?style=flat&logo=microsoft&logoColor=white)](#)
 
 </div>
 
