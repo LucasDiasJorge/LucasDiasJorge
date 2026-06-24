@@ -19,6 +19,9 @@ From API design to production deployment — clean architecture, robust data acc
 **.NET Ecosystem**
 `C#` `ASP.NET Core` `Entity Framework Core` `LINQ` `Dapper` `gRPC` `Workers`
 
+**JavaScript & Vue Ecosystem**
+`Vue.js` `Pinia` `Vuex` `TanStack Query` `Vuetify`
+
 **Databases**
 `SQL Server` `PostgreSQL` `MySQL` `MongoDB`
 
