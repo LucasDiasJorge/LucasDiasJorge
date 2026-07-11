@@ -15,7 +15,7 @@ Clean architecture and robust APIs on the back end, reactive and type-safe inter
 
 ---
 
-## 👋 About Me
+## 👋 About me
 
 Full-stack developer focused on the **.NET ecosystem** and modern **TypeScript/Vue**. I design robust, well-tested APIs following clean architecture and pair them with reactive, type-safe front ends. I care about maintainable code, solid testing, observability, and shipping to production with confidence.
 
