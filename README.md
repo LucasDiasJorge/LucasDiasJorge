@@ -2,7 +2,7 @@
 
 # Lucas Dias Jorge
 
-**Full-Stack Developer · C# / .NET · Vue.js**
+**Full-Stack Developer · .NET · Vue.js**
 
 Building reliable, scalable, and secure applications — from the database to the browser.<br/>
 Clean architecture and robust APIs on the back end, reactive and type-safe interfaces on the front end.
