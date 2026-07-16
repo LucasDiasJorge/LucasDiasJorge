@@ -14,14 +14,14 @@
   
       <g text-anchor="middle">
         <text x="82.5" y="52" class="label">Total Contributions</text>
-        <text x="82.5" y="104" class="stat">6,492</text>
+        <text x="82.5" y="104" class="stat">6,494</text>
         <text x="82.5" y="132" class="range">all time</text>
       </g>
   
       <g text-anchor="middle">
         <text x="247.5" y="52" class="label">🔥 Current Streak</text>
-        <text x="247.5" y="104" class="stat stat-accent">0</text>
-        <text x="247.5" y="132" class="range">No streak yet</text>
+        <text x="247.5" y="104" class="stat stat-accent">1237</text>
+        <text x="247.5" y="132" class="range">Feb 25 - Jul 15</text>
       </g>
   
       <g text-anchor="middle">
