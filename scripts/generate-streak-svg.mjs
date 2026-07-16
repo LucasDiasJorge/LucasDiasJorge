@@ -183,7 +183,13 @@ async function main() {
   }
   allDays.sort((a, b) => (a.date < b.date ? -1 : 1));
 
-  const stats = computeStreaks(allDays);
+  // Year queries run through Dec 31, so the array includes not-yet-happened
+  // future days (count 0). Drop those or the current-streak walk-back hits a
+  // future zero day first and breaks immediately instead of reaching today.
+  const todayISO = new Date().toISOString().slice(0, 10);
+  const pastOrToday = allDays.filter((d) => d.date <= todayISO);
+
+  const stats = computeStreaks(pastOrToday);
   const svg = renderSVG(stats);
 
   await mkdir(dirname(OUTPUT_PATH), { recursive: true });
