@@ -57,7 +57,7 @@ async function fetchYearDays(year) {
     { login: USERNAME, from, to }
   );
   return data.user.contributionsCollection.contributionCalendar.weeks.flatMap(
-    (w) => w.contributionDays
+    (w) => w.contributionDays.map((d) => ({ date: d.date, count: d.contributionCount }))
   );
 }
 
