@@ -11,20 +11,23 @@
   <rect class="bg" x="0.5" y="0.5" width="494" height="194" rx="10"/>
   <line class="divider" x1="165" y1="30" x2="165" y2="145"/>
   <line class="divider" x1="330" y1="30" x2="330" y2="145"/>
-  <g text-anchor="middle">
-    <text x="82.5" y="52" class="label">Total Contributions</text>
-    <text x="82.5" y="104" class="stat">-</text>
-    <text x="82.5" y="132" class="range">all time</text>
-  </g>
-  <g text-anchor="middle">
-    <text x="247.5" y="52" class="label">🔥 Current Streak</text>
-    <text x="247.5" y="104" class="stat stat-accent">-</text>
-    <text x="247.5" y="132" class="range">pending first run</text>
-  </g>
-  <g text-anchor="middle">
-    <text x="412.5" y="52" class="label">Longest Streak</text>
-    <text x="412.5" y="104" class="stat">-</text>
-    <text x="412.5" y="132" class="range">pending first run</text>
-  </g>
-  <text x="247.5" y="172" text-anchor="middle" class="footer">@LucasDiasJorge · updates daily via GitHub Actions</text>
+  
+      <g text-anchor="middle">
+        <text x="82.5" y="52" class="label">Total Contributions</text>
+        <text x="82.5" y="104" class="stat">NaN</text>
+        <text x="82.5" y="132" class="range">all time</text>
+      </g>
+  
+      <g text-anchor="middle">
+        <text x="247.5" y="52" class="label">🔥 Current Streak</text>
+        <text x="247.5" y="104" class="stat stat-accent">0</text>
+        <text x="247.5" y="132" class="range">No streak yet</text>
+      </g>
+  
+      <g text-anchor="middle">
+        <text x="412.5" y="52" class="label">Longest Streak</text>
+        <text x="412.5" y="104" class="stat">0</text>
+        <text x="412.5" y="132" class="range">No streak yet</text>
+      </g>
+  <text x="247.5" y="172" text-anchor="middle" class="footer">@LucasDiasJorge · updated 2026-07-16</text>
 </svg>
