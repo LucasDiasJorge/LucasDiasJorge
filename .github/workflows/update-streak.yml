@@ -20,9 +20,9 @@ jobs:
 
       - name: Generate streak SVG
         env:
-          # Default GITHUB_TOKEN can't see private contributions — needs a
-          # personal token with `read:user` scope stored as STREAK_TOKEN.
-          GH_TOKEN: ${{ secrets.STREAK_TOKEN }}
+          # Prefer STREAK_TOKEN (for private contributions); fall back to the
+          # default workflow token so the job still runs when STREAK_TOKEN is unset.
+          GH_TOKEN: ${{ secrets.STREAK_TOKEN || github.token }}
           GH_USERNAME: LucasDiasJorge
         run: node scripts/generate-streak-svg.mjs
 
