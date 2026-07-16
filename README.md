@@ -61,8 +61,10 @@ Full-stack developer focused on the **.NET ecosystem** and modern **TypeScript/V
 ## 📊 Stats
 <div align="center">
   <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiasJorge&layout=compact&langs_count=8&hide_title=true&theme=github_dark" />
-  <img alt="GitHub Streak" height="160" src="https://github-readme-streak-stats.herokuapp.com?user=LucasDiasJorge&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img alt="Commit Streak" height="160" src="./assets/streak-stats.svg" />
 </div>
+
+<sub>Streak card is self-hosted — generated daily by a <a href="./.github/workflows/update-streak.yml">GitHub Action</a> from the GraphQL contributions API, no third-party service involved.</sub>
 
 ---
 

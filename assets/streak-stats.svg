@@ -1,0 +1,30 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Commit streak stats">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    .stat { font: 700 34px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .stat-accent { fill: #f0883e; }
+    .range { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #6e7681; }
+    .divider { stroke: #30363d; stroke-width: 1; }
+    .footer { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #484f58; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="494" height="194" rx="10"/>
+  <line class="divider" x1="165" y1="30" x2="165" y2="145"/>
+  <line class="divider" x1="330" y1="30" x2="330" y2="145"/>
+  <g text-anchor="middle">
+    <text x="82.5" y="52" class="label">Total Contributions</text>
+    <text x="82.5" y="104" class="stat">-</text>
+    <text x="82.5" y="132" class="range">all time</text>
+  </g>
+  <g text-anchor="middle">
+    <text x="247.5" y="52" class="label">🔥 Current Streak</text>
+    <text x="247.5" y="104" class="stat stat-accent">-</text>
+    <text x="247.5" y="132" class="range">pending first run</text>
+  </g>
+  <g text-anchor="middle">
+    <text x="412.5" y="52" class="label">Longest Streak</text>
+    <text x="412.5" y="104" class="stat">-</text>
+    <text x="412.5" y="132" class="range">pending first run</text>
+  </g>
+  <text x="247.5" y="172" text-anchor="middle" class="footer">@LucasDiasJorge · updates daily via GitHub Actions</text>
+</svg>
