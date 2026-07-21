@@ -14,20 +14,20 @@
   
       <g text-anchor="middle">
         <text x="82.5" y="52" class="label">Total Contributions</text>
-        <text x="82.5" y="104" class="stat">6,501</text>
+        <text x="82.5" y="104" class="stat">6,505</text>
         <text x="82.5" y="132" class="range">all time</text>
       </g>
   
       <g text-anchor="middle">
         <text x="247.5" y="52" class="label">🔥 Current Streak</text>
-        <text x="247.5" y="104" class="stat stat-accent">1241</text>
-        <text x="247.5" y="132" class="range">Feb 25 - Jul 19</text>
+        <text x="247.5" y="104" class="stat stat-accent">1242</text>
+        <text x="247.5" y="132" class="range">Feb 25 - Jul 20</text>
       </g>
   
       <g text-anchor="middle">
         <text x="412.5" y="52" class="label">Longest Streak</text>
-        <text x="412.5" y="104" class="stat">1241</text>
-        <text x="412.5" y="132" class="range">Feb 25 - Jul 19</text>
+        <text x="412.5" y="104" class="stat">1242</text>
+        <text x="412.5" y="132" class="range">Feb 25 - Jul 20</text>
       </g>
-  <text x="247.5" y="172" text-anchor="middle" class="footer">@LucasDiasJorge · updated 2026-07-20</text>
+  <text x="247.5" y="172" text-anchor="middle" class="footer">@LucasDiasJorge · updated 2026-07-21</text>
 </svg>
