@@ -5,28 +5,48 @@ import { dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const USERNAME = process.env.GH_USERNAME || 'LucasDiasJorge';
-const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
+const TOKENS = [...new Set([process.env.GH_TOKEN, process.env.GITHUB_TOKEN].filter(Boolean))];
 const OUTPUT_PATH = fileURLToPath(new URL('../assets/streak-stats.svg', import.meta.url));
 
-if (!TOKEN) {
+if (TOKENS.length === 0) {
   throw new Error('GH_TOKEN (or GITHUB_TOKEN) env var is required to query the GitHub GraphQL API.');
 }
 
 async function graphql(query, variables) {
-  const res = await fetch('https://api.github.com/graphql', {
-    method: 'POST',
-    headers: {
-      Authorization: `bearer ${TOKEN}`,
-      'Content-Type': 'application/json',
-      'User-Agent': 'streak-stats-generator',
-    },
-    body: JSON.stringify({ query, variables }),
-  });
-  const json = await res.json();
-  if (json.errors) {
-    throw new Error(`GraphQL error: ${JSON.stringify(json.errors)}`);
+  for (let i = 0; i < TOKENS.length; i++) {
+    const token = TOKENS[i];
+    const res = await fetch('https://api.github.com/graphql', {
+      method: 'POST',
+      headers: {
+        Authorization: `bearer ${token}`,
+        'Content-Type': 'application/json',
+        'User-Agent': 'streak-stats-generator',
+      },
+      body: JSON.stringify({ query, variables }),
+    });
+    const body = await res.text();
+    let json;
+    try {
+      json = JSON.parse(body);
+    } catch {
+      throw new Error(`GitHub GraphQL returned a non-JSON response (status ${res.status}).`);
+    }
+    if (json.errors) {
+      throw new Error(`GraphQL error: ${JSON.stringify(json.errors)}`);
+    }
+    if (json.data) {
+      return json.data;
+    }
+
+    const message = json.message || `GitHub GraphQL request failed with status ${res.status}.`;
+    const isAuthFailure = res.status === 401 || res.status === 403;
+    if (isAuthFailure && i < TOKENS.length - 1) {
+      continue;
+    }
+    throw new Error(message);
   }
-  return json.data;
+
+  throw new Error('GitHub GraphQL request failed for all available tokens.');
 }
 
 async function fetchContributionYears() {
@@ -38,6 +58,9 @@ async function fetchContributionYears() {
     }`,
     { login: USERNAME }
   );
+  if (!data?.user?.contributionsCollection?.contributionYears) {
+    throw new Error(`Unable to fetch contribution years for user "${USERNAME}".`);
+  }
   return data.user.contributionsCollection.contributionYears;
 }
 
@@ -56,6 +79,9 @@ async function fetchYearDays(year) {
     }`,
     { login: USERNAME, from, to }
   );
+  if (!data?.user?.contributionsCollection?.contributionCalendar?.weeks) {
+    throw new Error(`Unable to fetch contribution calendar for user "${USERNAME}" in ${year}.`);
+  }
   return data.user.contributionsCollection.contributionCalendar.weeks.flatMap(
     (w) => w.contributionDays.map((d) => ({ date: d.date, count: d.contributionCount }))
   );

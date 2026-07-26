@@ -20,9 +20,10 @@ jobs:
 
       - name: Generate streak SVG
         env:
-          # Prefer STREAK_TOKEN (for private contributions); fall back to the
-          # default workflow token so the job still runs when STREAK_TOKEN is unset.
-          GH_TOKEN: ${{ secrets.STREAK_TOKEN || github.token }}
+          # Prefer STREAK_TOKEN (for private contributions). The script will
+          # retry with GITHUB_TOKEN if GH_TOKEN is invalid or lacks access.
+          GH_TOKEN: ${{ secrets.STREAK_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           GH_USERNAME: LucasDiasJorge
         run: node scripts/generate-streak-svg.mjs
 
