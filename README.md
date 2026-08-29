@@ -43,9 +43,8 @@ Off the clock, most of my repositories are systems code: **C, C++ and Rust** —
 
 ## 🌱 Currently
 
-- Exploring **embeddings and LLM tooling in C#** ([Embeddings-CSharp](https://github.com/LucasDiasJorge/Embeddings-CSharp), [Token-Analyzer](https://github.com/LucasDiasJorge/Token-Analyzer)).
+- Exploring **embeddings  in C#** ([Embeddings-CSharp](https://github.com/LucasDiasJorge/Embeddings-CSharp).
 - Growing the Rust side — a [Redis-like server](https://github.com/LucasDiasJorge/Rustdis) and the blockchain node above.
-- Keeping the fundamentals sharp with [daily algorithm practice](https://github.com/LucasDiasJorge/Daily-leetcode).
 
 ## 📊 Stats
 <div align="center">
