@@ -35,7 +35,7 @@ Off the clock, most of my repositories are systems code: **C, C++ and Rust** —
 | | |
 | --- | --- |
 | **Back-end** | C# · ASP.NET Core · EF Core · Dapper · gRPC · REST · Background Workers · Java/Spring |
-| **Front-end** | TypeScript · Vue 3 · Pinia · TanStack Query · Zod · Vuetify |
+| **Front-end** | TypeScript · JavaScript · Vue 3 · Pinia · TanStack Query · Zod · Vuetify |
 | **Systems** | C · C++ · Rust · threads & concurrency · shared memory · sockets |
 | **Data** | SQL Server · PostgreSQL · MySQL · MongoDB · Redis |
 | **Architecture** | Clean Architecture · DDD · SOLID · Microservices · Design Patterns |
