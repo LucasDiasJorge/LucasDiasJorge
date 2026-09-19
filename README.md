@@ -18,7 +18,7 @@ and from the socket up when the problem asks for it.
 
 ## 👋 About me
 
-Full-stack developer focused on the **.NET ecosystem** and modern **TypeScript/Vue**. I design robust, well-tested APIs following clean architecture and pair them with reactive, type-safe front ends.
+Full-stack developer focused on the **.NET ecosystem** and modern **TypeScript/JavaScript with Vue**. I design robust, well-tested APIs following clean architecture and pair them with reactive, type-safe front ends.
 
 Off the clock, most of my repositories are systems code: **C, C++ and Rust** — data structures, concurrency, shared memory, and protocol work. That habit is what keeps the high-level design honest: I like knowing what the abstraction actually costs.
 
@@ -29,7 +29,7 @@ Off the clock, most of my repositories are systems code: **C, C++ and Rust** —
 ## 🌱 Currently
 
 - Exploring **embeddings  in C#** ([Embeddings-CSharp](https://github.com/LucasDiasJorge/Embeddings-CSharp)).
-
+ 
 ## 🔧 Tech stack
 
 | | |
