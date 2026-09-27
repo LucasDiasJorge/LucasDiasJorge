@@ -26,10 +26,6 @@ Off the clock, most of my repositories are systems code: **C, C++ and Rust** —
 - 🧪 Test-driven mindset, clean architecture, evolvable design.
 - 🔬 Distributed systems and low-level programming as a standing side quest.
 
-## 🌱 Currently
-
-- Exploring **embeddings  in C#** ([Embeddings-CSharp](https://github.com/LucasDiasJorge/Embeddings-CSharp)).
- 
 ## 🔧 Tech stack
 
 | | |
