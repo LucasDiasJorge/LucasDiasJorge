@@ -2,7 +2,7 @@
 
 # Lucas Dias Jorge
 
-**Full-Stack Developer · .NET · Vue** — and a C lang enjoyer at heart.
+**Full-Stack Developer · .NET · Vue · C lang enjoyer at heart**.
 
 Building reliable, scalable, and secure applications — from the database to the browser,<br/>
 and from the socket up when the problem asks for it.
