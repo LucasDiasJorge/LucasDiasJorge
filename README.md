@@ -2,10 +2,9 @@
 
 # Lucas Dias Jorge
 
-**Full-Stack Developer · .NET · Vue · C/C++ and Rust for systems**.
+**Backend-focused Full-Stack Developer · .NET & Java/Spring · Vue · IoT/RFID · C/C++/Rust**.
 
-Building reliable, scalable, and secure applications — from the database to the browser,<br/>
-and from the socket up when the problem asks for it.
+Building APIs, integrations, and device-facing software — from web interfaces to embedded protocols.
 
 </div>
 
@@ -18,21 +17,24 @@ and from the socket up when the problem asks for it.
 
 ## 👋 About me
 
-Full-stack developer focused on the **.NET ecosystem** and modern **TypeScript/JavaScript with Vue**. I design robust, well-tested APIs following clean architecture and pair them with reactive, type-safe front ends.
+Full-stack developer with a backend-first focus. My projects span **C#/.NET and Java/Spring APIs**, **TypeScript/JavaScript interfaces with Vue**, and distributed services built around Kafka, REST/gRPC, and JWT/Keycloak authentication.
 
-Off the clock, most of my repositories are systems code: **C, C++ and Rust** — data structures, concurrency, shared memory, and protocol work. That habit is what keeps the high-level design honest: I like knowing what the abstraction actually costs.
+I also work close to hardware and protocols: **RFID reader integrations**, ESP32/ESP8266, MQTT, LoRa, Modbus, and low-level/concurrent programming in **C, C++ and Rust**. Other project areas include data processing, computer vision, and mobile/desktop apps with Flutter, Android, and Qt.
 
-- 🧱 Back-end first, full-stack by choice — I own features end to end, from data model to UI.
-- 🧪 Test-driven mindset, clean architecture, evolvable design.
-- 🔬 Distributed systems and low-level programming as a standing side quest.
+- 🧱 Backend-first, full-stack by choice — I take features from domain/API design through persistence, integrations, and UI.
+- 🔌 I enjoy connecting software with hardware and external systems: reader workflows, event messaging, sockets, and embedded protocols.
+- 🧪 I value maintainable architecture and testing, and use Docker, Linux, and deployment automation to run projects reliably.
 
 ## 🔧 Tech stack
 
 | | |
 | --- | --- |
-| **Back-end** | C# · ASP.NET Core · EF Core · Dapper · gRPC · REST · Background Workers · Java/Spring |
+| **Back-end & APIs** | C# · ASP.NET Core · EF Core · Dapper · Java · Spring Boot/Cloud · Rust/Actix · Node.js · REST · gRPC |
+| **Distributed systems** | Microservices · Kafka · JWT/Keycloak · service discovery · background workers · SSE · WebSockets |
 | **Front-end** | TypeScript · JavaScript · Vue 3 · Pinia · TanStack Query · Zod · Vuetify |
-| **Systems** | C · C++ · Rust · threads & concurrency · shared memory · sockets |
-| **Data** | SQL Server · PostgreSQL · MySQL · MongoDB · Redis |
-| **Architecture** | Clean Architecture · DDD · SOLID · Microservices · Design Patterns |
-| **Quality & Ops** | xUnit · TDD · Docker · GitHub Actions · structured logging · caching · secret management |
+| **IoT & RFID** | ESP32/ESP8266 · MQTT · LoRa · Modbus · Impinj/R700 readers · EPC processing |
+| **Systems & embedded** | C · C++ · Rust · ARM · concurrency · shared memory · sockets |
+| **Data & AI** | Python scripting · SQL Server · PostgreSQL · MySQL · MongoDB · Redis · data processing · OpenCV · embeddings |
+| **Mobile & desktop** | Flutter · Android · Qt |
+| **Architecture & quality** | Clean/Hexagonal Architecture · DDD · SOLID · design patterns · xUnit · TDD |
+| **DevOps & operations** | Docker/Compose · Linux · Nginx · GitHub Actions · deployment scripts · structured logging · caching · secret management |
