@@ -35,6 +35,5 @@ I also work close to hardware and protocols: **RFID reader integrations**, ESP32
 | **IoT & RFID** | ESP32/ESP8266 · MQTT · LoRa · Modbus · Impinj/R700 readers · EPC processing |
 | **Systems & embedded** | C · C++ · Rust · ARM · concurrency · shared memory · sockets |
 | **Data & AI** | Python scripting · SQL Server · PostgreSQL · MySQL · MongoDB · Redis · data processing · OpenCV · embeddings |
-| **Mobile & desktop** | Flutter · Android · Qt |
 | **Architecture & quality** | Clean/Hexagonal Architecture · DDD · SOLID · design patterns · xUnit · TDD |
 | **DevOps & operations** | Docker/Compose · Linux · Nginx · GitHub Actions · deployment scripts · structured logging · caching · secret management |
