@@ -14,7 +14,7 @@
   
       <g text-anchor="middle">
         <text x="82.5" y="52" class="label">Total Contributions</text>
-        <text x="82.5" y="104" class="stat">6,864</text>
+        <text x="82.5" y="104" class="stat">6,866</text>
         <text x="82.5" y="132" class="range">all time</text>
       </g>
   
@@ -29,5 +29,5 @@
         <text x="412.5" y="104" class="stat">1349</text>
         <text x="412.5" y="132" class="range">Feb 25 - Nov 4</text>
       </g>
-  <text x="247.5" y="172" text-anchor="middle" class="footer">@LucasDiasJorge · updated 2026-11-04</text>
+  <text x="247.5" y="172" text-anchor="middle" class="footer">@LucasDiasJorge · updated 2026-11-05</text>
 </svg>
