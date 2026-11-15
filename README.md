@@ -14,10 +14,6 @@ I have hands-on experience with:
 - **Infrastructure:** Docker, CI/CD, GitHub Actions, Observability
 - **Systems Programming:** C, C++, Rust, concurrency, shared memory, and networking
 
-Beyond application development, I enjoy exploring systems programming, performance optimization, memory management, and distributed computing.
-
-I believe strong software engineering comes from understanding not only how to build abstractions, but also how they behave under the hood.
-
 <div align="center">
   <img alt="Commit Streak" height="160" src="./assets/streak-stats.svg" />
 
